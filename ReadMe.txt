@@ -46,4 +46,5 @@ The game starts with a grid of unmarked squares. Some squares contain mines (bom
 
 ## Contributing
 
-Contributions to the project are welcome! If you find any bugs or have suggestions for improvement, please feel free to open an issue or submit a pull request on GitHub.   
+Contributions to the project are welcome! If you find any bugs or have suggestions for improvement, please feel free to open an issue or submit a pull request on GitHub.
+ 
